@@ -1,0 +1,1 @@
+[{"id":"dfb338da.8a5dc8","type":"function","z":"4b1d3ae4.8184e4","name":"payload","func":"msg.headers={\n  deviceKey:\"5Fv4m5XsU6cU3x60\"  \n};\nmsg.payload=\"temp,,25.3\";\nreturn msg;","outputs":1,"noerr":0,"x":340,"y":180,"wires":[["88b948c.38434b8","8bc816a3.a619f8"]]}]
